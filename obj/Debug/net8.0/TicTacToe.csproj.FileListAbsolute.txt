@@ -1,0 +1,14 @@
+/Users/antontran/ConsoleGameProj/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/antontran/ConsoleGameProj/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/antontran/ConsoleGameProj/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/antontran/ConsoleGameProj/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/antontran/ConsoleGameProj/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/antontran/ConsoleGameProj/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
